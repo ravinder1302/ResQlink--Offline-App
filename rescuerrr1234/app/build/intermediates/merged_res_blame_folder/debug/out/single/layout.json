@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.rescue.offlineapp-mergeDebugResources-54:/layout/activity_victim.xml",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_victim.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-mergeDebugResources-54:/layout/activity_alert_detail.xml",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_alert_detail.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-mergeDebugResources-54:/layout/activity_volunteer.xml",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_volunteer.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-mergeDebugResources-54:/layout/item_alert.xml",
+        "source": "com.rescue.offlineapp-main-57:/layout/item_alert.xml"
+    }
+]

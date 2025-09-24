@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF4081</color>
+    <color name="background">#F5F5F5</color>
+    <color name="badge_background">#FF5722</color>
+    <color name="black">#000000</color>
+    <color name="emergency_red">#F44336</color>
+    <color name="listening_green">#4CAF50</color>
+    <color name="primary">#1976D2</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="priority_badge_background">#1976D2</color>
+    <color name="priority_high">#F44336</color>
+    <color name="priority_low">#4CAF50</color>
+    <color name="priority_medium">#FF9800</color>
+    <color name="progress_track">#E0E0E0</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="victim_color">#FF5722</color>
+    <color name="volunteer_color">#4CAF50</color>
+    <color name="white">#FFFFFF</color>
+    <string name="additional_message">Additional message (optional)</string>
+    <string name="alert_details">Alert Details</string>
+    <string name="alert_failed">Failed to send alert</string>
+    <string name="alert_marked_as_read">Alert marked as read</string>
+    <string name="alert_sent">Alert sent successfully!</string>
+    <string name="app_info">This app works completely offline using Bluetooth and GPS for emergency communication</string>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name">Offline Rescue</string>
+    <string name="bluetooth_location_permission_message">This app needs Bluetooth and Location permissions to work offline</string>
+    <string name="bluetooth_permission_required">Bluetooth permission is required</string>
+    <string name="bluetooth_required_message">Bluetooth is required for offline communication</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="custom_alert">Custom Alert</string>
+    <string name="custom_alert_description">Send a detailed alert with specific needs</string>
+    <string name="emergency_sos">Emergency SOS</string>
+    <string name="enable_bluetooth">Enable Bluetooth</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="error">Error</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="high">HIGH</string>
+    <string name="listening_for_alerts">Listening for alerts</string>
+    <string name="loading">Loading...</string>
+    <string name="location_coordinates">Location coordinates</string>
+    <string name="location_permission_required">Location permission is required</string>
+    <string name="location_required_message">Location is required to send your coordinates to volunteers</string>
+    <string name="location_unknown">Location: Unknown</string>
+    <string name="low">LOW</string>
+    <string name="mark_as_read">Mark as Read</string>
+    <string name="medical_help">Medical Help</string>
+    <string name="medium">MEDIUM</string>
+    <string name="need_help">Need Help</string>
+    <string name="no_alerts_description">You will see alerts from victims here when they need help</string>
+    <string name="no_alerts_yet">No alerts yet</string>
+    <string name="no_volunteers_found">No volunteers found nearby</string>
+    <string name="offline_rescue_app">Offline Rescue App</string>
+    <string name="ok">OK</string>
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="priority">Priority</string>
+    <string name="provide_help">Provide Help</string>
+    <string name="ready_to_help">Ready to help victims</string>
+    <string name="ready_to_send_alert">Ready to send alert</string>
+    <string name="recent_alerts">Recent Alerts</string>
+    <string name="retry">Retry</string>
+    <string name="select_your_role">Select Your Role</string>
+    <string name="send_alert">Send Alert</string>
+    <string name="send_sos">SEND SOS</string>
+    <string name="sending_alert">Sending alert...</string>
+    <string name="sos_description">Send immediate emergency alert to nearby volunteers</string>
+    <string name="status">Status</string>
+    <string name="success">Success</string>
+    <string name="time_ago">Time ago</string>
+    <string name="urgent_medical_attention_needed">Urgent medical attention needed</string>
+    <string name="victim">Victim</string>
+    <string name="victim_icon">Victim Icon</string>
+    <string name="victim_mode">Victim Mode</string>
+    <string name="view">View</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="volunteer_icon">Volunteer Icon</string>
+    <string name="volunteer_mode">Volunteer Mode</string>
+    <string name="what_do_you_need">What do you need?</string>
+    <style name="Theme.OfflineRescueApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

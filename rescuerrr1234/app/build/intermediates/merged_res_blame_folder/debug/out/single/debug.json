@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_badge_background.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/layout_item_alert.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_no_alerts.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_no_alerts.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/layout_activity_volunteer.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_volunteer.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_person_injured.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_person_injured.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_volunteer.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_volunteer.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_location.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_emergency.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_emergency.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/layout_activity_victim.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_victim.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_listening.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_listening.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_rescue_logo.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_rescue_logo.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_priority_badge_background.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/priority_badge_background.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/drawable_ic_sos.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/drawable/ic_sos.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/layout_activity_alert_detail.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/layout/activity_alert_detail.xml"
+    },
+    {
+        "merged": "com.rescue.offlineapp-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.rescue.offlineapp-main-57:/xml/backup_rules.xml"
+    }
+]

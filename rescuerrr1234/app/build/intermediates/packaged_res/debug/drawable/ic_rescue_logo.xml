@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular badge -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M54,6a48,48 0 1,0 0,96a48,48 0 1,0 0,-96z"/>
+    <!-- Cross -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,32h16v16h16v16H62v16H46V64H30V48h16z"/>
+    <!-- Heartbeat line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M20,70 L38,70 L44,58 L50,76 L56,60 L62,70 L88,70"/>
+</vector>
+

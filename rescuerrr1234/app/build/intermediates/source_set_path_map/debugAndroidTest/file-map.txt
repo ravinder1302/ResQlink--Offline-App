@@ -1,0 +1,6 @@
+com.rescue.offlineapp.test.app-jetified-annotation-experimental-1.3.0-0 /Users/bhavyasree/.gradle/caches/8.12/transforms/aadf6a860cfab638c8054461b4c75ae6/transformed/jetified-annotation-experimental-1.3.0/res
+com.rescue.offlineapp.test.app-jetified-core-1.5.0-1 /Users/bhavyasree/.gradle/caches/8.12/transforms/fd64df029cabdbd742e7cb280581dbae/transformed/jetified-core-1.5.0/res
+com.rescue.offlineapp.test.app-androidTest-2 /Users/bhavyasree/Documents/rescuerrr1234/app/build/generated/res/resValues/androidTest/debug
+com.rescue.offlineapp.test.app-mergeDebugAndroidTestResources-3 /Users/bhavyasree/Documents/rescuerrr1234/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.rescue.offlineapp.test.app-mergeDebugAndroidTestResources-4 /Users/bhavyasree/Documents/rescuerrr1234/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.rescue.offlineapp.test.app-merged_res-5 /Users/bhavyasree/Documents/rescuerrr1234/app/build/intermediates/merged_res/debugAndroidTest

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Bluetooth Permissions -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE" />
+    
+    <!-- Location Permissions -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    
+    <!-- Vibration Permission -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    
+    <!-- Internet Permission (for Google Maps) -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Bluetooth Features -->
+    <uses-feature android:name="android.hardware.bluetooth" android:required="true" />
+    <uses-feature android:name="android.hardware.location" android:required="true" />
+    <uses-feature android:name="android.hardware.location.gps" android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/ic_rescue_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_rescue_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.OfflineRescueApp"
+        tools:targetApi="31">
+        
+        <activity
+            android:name=".ui.LoginActivity"
+            android:exported="true"
+            android:theme="@style/Theme.OfflineRescueApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".ui.VictimActivity"
+            android:exported="false"
+            android:theme="@style/Theme.OfflineRescueApp" />
+            
+        <activity
+            android:name=".ui.VolunteerActivity"
+            android:exported="false"
+            android:theme="@style/Theme.OfflineRescueApp" />
+            
+        <activity
+            android:name=".ui.AlertDetailActivity"
+            android:exported="false"
+            android:theme="@style/Theme.OfflineRescueApp" />
+    </application>
+
+</manifest>
